@@ -70,7 +70,7 @@ j f o u '
   y h / , .
 ```
 
-You could do the same thing on the left hand but I don't see any advantages there, common bigrams like `mb` and `bl` would become harder to type. I paid attention to minimizing awkward row jumps. In general with any layout you can usually move around keys within the same finger group. So if you re-arrange index keys to your liking or flip columns the important properties of the layout should stay the same because no letters change fingers. Keep row jumps in mind, though.
+You could do the same thing on the left hand but I don't see any advantages there, common bigrams like `mb` and `bl` would become harder to type. I paid attention to minimizing awkward row jumps while working on Snug. In general with any layout you can usually move around keys within the same finger group. So if you re-arrange index keys to your liking or flip columns the important properties of the layout should stay the same because no letters change fingers. Keep row jumps in mind, though.
 
 ## History
 
@@ -103,7 +103,7 @@ s r t c g  p n e i a
 z x k w v  j h / , .
 ```
 
-After a while of typing on this (now *Snug Classic*) I felt that `sch` which is very common in German was slow and annoying to type so I swapped `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls **Snug** of today.
+After a while of typing on this first iteration (now called *Snug Classic*) I felt that `sch` which is very common in German was slow and annoying to type so I swapped `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls **Snug** of today.
 
 > **Snug** adjective (snugger; snuggest)
 > 1. fitting closely and comfortably
