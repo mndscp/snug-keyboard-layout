@@ -103,7 +103,7 @@ s r t c g  p n e i a
 z x k w v  j h / , .
 ```
 
-After a while of typing on this first iteration (now called *Snug Classic*) I felt that `sch` which is very common in German was slow and annoying to type so I swapped `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls **Snug** of today.
+After a while of typing on this first iteration (now called *Snug Classic*) I felt that `sch` which is very common in German was slow and annoying to type so I swapped both index keys `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls **Snug** of today.
 
 > **Snug** adjective (snugger; snuggest)
 > 1. fitting closely and comfortably
