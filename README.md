@@ -10,6 +10,8 @@ SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to
 
 Scores for all of these factors play a role in the layout anaysis.
 
+## Keymap
+
 ### Matrix / ortholinear
 
 ```
