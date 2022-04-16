@@ -76,7 +76,7 @@ You could do the same thing on the left hand but I don't see any advantages ther
 
 After trying out several alternate keyboard layouts including [Colemak DH](https://colemakmods.github.io/mod-dh/), [ColemaQ](https://colemaq.github.io/), [ColemaQ-F](https://colemaq.github.io/variants.html), Colemak Qi;x, Colemak Qiou, [ISRT](https://notgate.github.io/layout/), Crustmak and Snu Snu, I did feel that the layout journey was going well but all these layouts had one thing in common: They were made with English in mind. They were great for typing in English and not optimal for typing in German. Many of them did not care about the `sc` and `eu` bigrams which are not common in English but very common in German. Optimizing for both languages was going to be difficult.
 
-The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it a lot but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with Snu back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
+The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it a lot but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with `Snu` back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
 
 Snug can be called a mod of Snu Snu, with its first iteration, a quite alternation-heavy version, looking quite similar.
 
@@ -110,7 +110,7 @@ After a while of typing on this first iteration (now called *Snug Classic*) I fe
 > 2. enjoying or affording warm secure shelter or cover and opportunity for ease and contentment
 > 3. affording a degree of comfort and ease
 
-As in those meanings + "Snu **Snu G**erman mod" + good short layout name.
+These meanings + Snu **Snu G**erman mod + good short layout name = Snug.
 
 *Fun fact: Because of the `v'g` on the bottom of Snug Classic and it being a layout optimized for German, a name I had thought about previously was `V'Ger` like in the Star Trek movie. But then decided against it because this layout was surely going to be used on most computers one day and nobody wants the copyright issues :P*
 
