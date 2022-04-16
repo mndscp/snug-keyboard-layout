@@ -54,7 +54,7 @@ If you have an additional key left of the `z` key like on ISO keyboards you can 
 
 ## Column flip
 
-One option that you have is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can compare in which variation you like it better to type the word `you` and go with that.
+One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can choose the variation with which you find typing the word `you` more enjoyable.
 
 ```
 Default inner column
