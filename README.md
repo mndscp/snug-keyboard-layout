@@ -57,26 +57,26 @@ If you have an additional key left of the `z` key like on ISO keyboards you can 
 One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can choose the variation with which you find typing the word `you` more enjoyable.
 
 ```
-Default inner column
+Default
 y f o u '
-p n e i a
-j m / , .
+ p n e i a
+  j h / , .
 ```
 
 ```
-Flipped inner column
+Flipped
 j f o u '
-p n e i a
-y m / , .
+ p n e i a
+  y h / , .
 ```
 
 You could do the same thing on the left hand but I don't see any advantages there, common bigrams like `mb` and `bl` would become harder to type. In general with any layout you can usually move around keys within the same finger group. So if you re-arrange index keys to your liking or flip columns the important properties of the layout should stay the same because no letters change fingers.
 
 ## History
 
-After trying out several alternate keyboard layouts including [Colemak DH](https://colemakmods.github.io/mod-dh/), [ColemaQ](https://colemaq.github.io/), [ColemaQ-F](https://colemaq.github.io/variants.html), Colemak-Qi, Colemak Qi;x, [ISRT](https://notgate.github.io/layout/), Crustmak and Snu Snu, I did feel that the layout journey was going well but all these layouts had one thing in common: They were made with English in mind. They were great for typing in English. Not too good for typing in German. Many of them did not care about the `sc` and `eu` bigrams which are not common in English but very common in German.
+After trying out several alternate keyboard layouts including [Colemak DH](https://colemakmods.github.io/mod-dh/), [ColemaQ](https://colemaq.github.io/), [ColemaQ-F](https://colemaq.github.io/variants.html), Colemak Qi;x, Colemak Qiou, [ISRT](https://notgate.github.io/layout/), Crustmak and Snu Snu, I did feel that the layout journey was going well but all these layouts had one thing in common: They were made with English in mind. They were great for typing in English and not optimal for typing in German. Many of them did not care about the `sc` and `eu` bigrams which are not common in English but very common in German. Optimizing for both languages was going to be difficult.
 
-The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with Snu back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
+The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it a lot but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with Snu back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
 
 Snug can be called a mod of Snu Snu, with its first iteration, a quite alternation-heavy version, looking quite similar.
 
@@ -113,12 +113,16 @@ A few months went by and this final version remained the last one standing out o
 
 ### Corpus
 
-During the layout creation process I tried different text corpora and the one that ended up being the most helpful was a dual corpus consisting of an English text and the German translation of that text. I ran analyses using the English part (EN), the German part (DE), them combined as the dual corpus (ENDE), the classic Monkeytype Quotes corpus, and my exported chats from Discord.
+During the layout creation process I tried different text corpora and the one that ended up being the most helpful was a parallel corpus consisting of an text available in both English and German. I ran analyses using the English part (EN), the German part (DE), them combined as the parallel corpus (ENDE), the classic Monkeytype Quotes corpus, and my exported chats from Discord.
+
+You can find the English/German text that I used for the parallel corpus [here](https://www.statmt.org/europarl/).
 
 The analyses were done using three different analysers:
 - semilin's [genkey](https://semilin.github.io/genkey/)
 - ClemenPine's [200-analyzer](https://github.com/ClemenPine/200-analyzer)
 - The [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html) using the default EN and DE corpora
+
+
 
 ### genkey
 
@@ -155,14 +159,14 @@ z x c d k v h / . ,
 ```
 
 ```
-Colemak-Qi (nyfee/2021)
-q l w m k j f u y '
+Colemak Qi;x (nyfee/2021)
+; l c m k j f u y q
 a r s t g p n e i o
-z x c d v b h , . /
+z x w d v b h / , .
 ```
 
 ```
-Colemak Qi;x (nyfee/2021)
+Colemak-Qiou (mainstream/2021)
 q l c m k j f o y '
 a r s t g p n e i u
 z x w d v b h , . /
@@ -191,11 +195,16 @@ q j m h b p c ' , ;
 
 ## Links
 
--
--
--
--
--
--
--
--
+- [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org)
+- [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/)
+- [ec0vid's Keyboard layout doc](https://bit.ly/keyboard-layouts-doc)
+- [Norvig bigram frequencies](https://blogs.sas.com/content/iml/files/2014/09/bigrams.txt)
+- [WordCreator character and syllable frequences](https://www.sttmedia.com/wordcreator-frequencies)
+- [semi's "genkey" layout generator and analyzer](https://semilin.github.io/genkey/)
+- [ClemenPine's "200-analyzer" layout analyzer](https://github.com/ClemenPine/200-analyzer)
+- [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
+- [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html)
+- [Apsu's APT layout](https://github.com/Apsu/APT)
+- [Colemak DH layout](https://colemakmods.github.io/mod-dh/)
+- [ColemaQ layout and its variants](https://colemaq.github.io/)
+- [ISRT layout](https://notgate.github.io/layout/)
