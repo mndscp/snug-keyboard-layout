@@ -1,4 +1,4 @@
-# Snug
+# Snug keyboard layout
 
 Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys.
 
@@ -8,9 +8,7 @@ SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to
 
 **Rolls** are comfortable sequences of keys that are all typed with different fingers, going one direction on your hand, like `wet`, `hop`, and `awe`.
 
-Find scores of all these factors compared to other layouts in the analysis section.
-
-## The layout
+Scores for all of these factors play a roll in the layout anaysis.
 
 ### Matrix / ortholinear
 
@@ -50,11 +48,13 @@ q l d m b y f o u '
 z x k w v   j h / , .
 ```
 
-If you have an additional key left of the `z` key like on ISO keyboards you can simply shift over the whole left row and don't have to reach far for the former `b` key anymore. You can bind that to something else that you use less often. After getting used to the angle mod it should decrease typing fatigue on your left hand. It takes some getting used to but you can give it a try and then decide what you like better. The angle mod works on row-stagger keyboards independently of the typing layout you use. Read more about it on [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org/ergo-mods.html#AngleWide).
+If you have an additional key left of the `z` key like on ISO keyboards you can simply shift over the whole left row and don't have to reach far for the former `b` key anymore. You can bind that to something else that you use less often.
+
+After getting used to the angle mod it should decrease typing fatigue on your left hand. You can give it a try and then decide what you like better. The angle mod works on row-stagger keyboards independently of the typing layout you use. Read more about it on [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org/ergo-mods.html#AngleWide).
 
 ## Column flip
 
-One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can choose the variation with which you find typing the word `you` more enjoyable.
+One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can choose the variation with which you find typing the words `you` and `any` more enjoyable.
 
 ```
 Default
@@ -70,7 +70,7 @@ j f o u '
   y h / , .
 ```
 
-You could do the same thing on the left hand but I don't see any advantages there, common bigrams like `mb` and `bl` would become harder to type. In general with any layout you can usually move around keys within the same finger group. So if you re-arrange index keys to your liking or flip columns the important properties of the layout should stay the same because no letters change fingers.
+You could do the same thing on the left hand but I don't see any advantages there, common bigrams like `mb` and `bl` would become harder to type. I paid attention to minimizing awkward row jumps. In general with any layout you can usually move around keys within the same finger group. So if you re-arrange index keys to your liking or flip columns the important properties of the layout should stay the same because no letters change fingers. Keep row jumps in mind, though.
 
 ## History
 
@@ -118,7 +118,7 @@ As in those meanings + "Snu **Snu G**erman mod" + good short layout name.
 
 ### Corpus
 
-During the layout creation process I tried different text corpora and the one that ended up being the most helpful was a parallel corpus consisting of an text available in both English and German. I ran analyses using the English part (EN), the German part (DE), them combined as the parallel corpus (ENDE), the classic Monkeytype Quotes corpus, and my exported chats from Discord.
+During the layout creation process I tried different text corpora and the one that ended up being the most helpful was a parallel corpus consisting of a text available in both English and German. I ran analyses using the English part (EN), the German part (DE), them combined as the parallel corpus (ENDE), the classic Monkeytype Quotes corpus, and my exported chats from Discord.
 
 You can find the English/German text that I used for the parallel corpus [here](https://www.statmt.org/europarl/).
 
