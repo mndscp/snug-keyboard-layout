@@ -1,6 +1,6 @@
 # Snug
 
-Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while also keeping redirects low and rolls high.
+Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys.
 
 SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to use the same finger for typing the two letters in sequence. On QWERTY for example, `de`/`ed` are SFBs. You want as few SFBs as possible to increase typing comfort and speed. The word `follow` has four letters all typed with one finger which is neither comfortable nor fast.
 
@@ -105,7 +105,17 @@ z x k w v  j h / , .
 
 After a while of typing on this I felt that `sch` which is very common in German was uncomfortable to type and so I swapped `n` and `c` to make `sch` an easy roll and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls Snug of today. If you don't type in German and you prefer hand alternation over rolls this might be the version for you.
 
-A few months went by and this final version remained the last one standing out of all layouts I had created in the mean time and so there finally was **Snug**. As in "very comfortable" + "Snu **Snu G**erman mod" + nice word in general + good short layout name in my opinion.
+A few months went by and this final version remained the last one standing out of all layouts I had created in the mean time. Finally ... **Snug**.
+
+> **snug** adjective (snugger; snuggest)
+>
+> 1. fitting closely and comfortably
+>
+> 2. enjoying or affording warm secure shelter or cover and opportunity for ease and contentment
+>
+> 3. affording a degree of comfort and ease
+
+As in those meanings + "Snu **Snu G**erman mod" + good short layout name.
 
 *Fun fact: Because of the `v'g` on the bottom of Snug Classic and it being a layout optimized for German, a name I had thought about previously was `V'Ger` like in the Star Trek movie. But then decided against it because this layout was surely going to be used on most computers one day and nobody wants the copyright issues :P*
 
@@ -122,7 +132,7 @@ The analyses were done using three different analysers:
 - ClemenPine's [200-analyzer](https://github.com/ClemenPine/200-analyzer)
 - The [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html) using the default EN and DE corpora
 
-
+The analyzers have different score calculations, please don't compare the scores of one analyzer to the other. For example genkey will usually show an SFB percentage around half that of the 200 analyzer.
 
 ### genkey
 
@@ -139,61 +149,61 @@ z x c v b  k m , . /
 
 ```
 Colemak DH (stevep99/2014)
-q w f p b j l u y ;
-a r s t g m n e i o
-z x c d v k h , . /
+q w f p b  j l u y ;
+a r s t g  m n e i o
+z x c d v  k h , . /
 ```
 
 ```
 ColemaQ (nyfee/2021)
-; w f p b j l u y q
-a r s t g m n e i o
-z x c d k v h / . ,
+; w f p b  j l u y q
+a r s t g  m n e i o
+z x c d k  v h / . ,
 ```
 
 ```
 ColemaQ-F (nyfee/2021)
-; w g p b j l u y q
-a r s t f m n e i o
-z x c d k v h / . ,
+; w g p b  j l u y q
+a r s t f  m n e i o
+z x c d k  v h / . ,
 ```
 
 ```
 Colemak Qi;x (nyfee/2021)
-; l c m k j f u y q
-a r s t g p n e i o
-z x w d v b h / , .
+; l c m k  j f u y q
+a r s t g  p n e i o
+z x w d v  b h / , .
 ```
 
 ```
 Colemak-Qiou (mainstream/2021)
-q l c m k j f o y '
-a r s t g p n e i u
-z x w d v b h , . /
+q l c m k  j f o y '
+a r s t g  p n e i u
+z x w d v  b h , . /
 ```
 
 ```
 Crustmak (Apsu/2021)
-q w f p k j l u o ;
-c r s t b m n e a i
-y x g d v z h ' , .
+q w f p k  j l u o ;
+c r s t b  m n e a i
+y x g d v  z h ' , .
 ```
 
 ```
 ISRT (NotGate/2021)
-y c l m k z f u , '
-i s r t g p n e a o
-q v w d j b h / . x
+y c l m k  z f u , '
+i s r t g  p n e a o
+q v w d j  b h / . x
 ```
 
 ```
 Sertain (Smudge/2021)
-x l d k v z w o u .
-s r t n f g y e i a
-q j m h b p c ' , ;
+x l d k v  z w o u .
+s r t n f  g y e i a
+q j m h b  p c ' , ;
 ```
 
-## Links
+## Inspiration, knowledge, and tools
 
 - [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org)
 - [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/)
