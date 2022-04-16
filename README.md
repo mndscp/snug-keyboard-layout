@@ -8,7 +8,7 @@ SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to
 
 **Rolls** are comfortable sequences of keys that are all typed with different fingers, going one direction on your hand, like `wet`, `hop`, and `awe`.
 
-Scores for all of these factors play a roll in the layout anaysis.
+Scores for all of these factors play a role in the layout anaysis.
 
 ### Matrix / ortholinear
 
