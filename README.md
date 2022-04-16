@@ -107,7 +107,7 @@ After a while of typing on this I felt that `sch` which is very common in German
 
 A few months went by and this final version remained the last one standing out of all layouts I had created in the mean time. Finally ... **Snug**.
 
-> **snug** adjective (snugger; snuggest)
+> **Snug** adjective (snugger; snuggest)
 >
 > 1. fitting closely and comfortably
 >
