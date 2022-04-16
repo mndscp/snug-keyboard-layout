@@ -108,11 +108,8 @@ After a while of typing on this I felt that `sch` which is very common in German
 A few months went by and this final version remained the last one standing out of all layouts I had created in the mean time. Finally ... **Snug**.
 
 > **Snug** adjective (snugger; snuggest)
->
 > 1. fitting closely and comfortably
->
 > 2. enjoying or affording warm secure shelter or cover and opportunity for ease and contentment
->
 > 3. affording a degree of comfort and ease
 
 As in those meanings + "Snu **Snu G**erman mod" + good short layout name.
@@ -203,7 +200,7 @@ s r t n f  g y e i a
 q j m h b  p c ' , ;
 ```
 
-## Inspiration, knowledge, and tools
+## Inspiration, knowledge, tools
 
 - [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org)
 - [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/)
