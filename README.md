@@ -103,9 +103,7 @@ s r t c g  p n e i a
 z x k w v  j h / , .
 ```
 
-After a while of typing on this [Snug Classic] I felt that `sch` which is very common in German was slow to type and so I swapped `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls Snug of today. If you don't type in German and you prefer hand alternation over rolls this might be the version for you.
-
-A few months went by and this final version remained the last one standing out of all layouts I had created in the mean time. Finally ... **Snug**.
+After a while of typing on this (now *Snug Classic*) I felt that `sch` which is very common in German was slow and annoying to type so I swapped `n` and `c` to make `sch` an easy roll instead of a redirect and made adjustments around them to optimize for low SFBs again. The result is the low-alternation high-rolls **Snug** of today.
 
 > **Snug** adjective (snugger; snuggest)
 > 1. fitting closely and comfortably
