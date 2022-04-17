@@ -1,6 +1,6 @@
 # Snug keyboard layout
 
-Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys.
+Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys. The layout was created during countless days of layout analysis using 200-analyzer and genkey, trying out variants on keyboards with different key layouts, feedback from other people, and a ton of manual optimization and of course typing.
 
 SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to use the same finger for typing the two letters in sequence. On QWERTY for example, `de`/`ed` are SFBs. You want as few SFBs as possible to increase typing comfort and speed. The word `follow` has four letters all typed with one finger which is neither comfortable nor fast.
 
@@ -262,14 +262,14 @@ x j b k q  c w ' , ;
 ISRT (NotGate/2021)
 y c l m k  z f u , '
 i s r t g  p n e a o ;
-q v w d j  b h / . x 
+q v w d j  b h / . x
 ```
 
 ```
 Rollmak (Apsu/2022)
-q w f p b  z l u o ;
-c r s t g  m n e a i
-v x y d k  j h / , .
+q w f p b  z l u o ,
+c r s t g  m n e a i ;
+v x y d k  j h / ' .
 ```
 
 ```
