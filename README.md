@@ -203,11 +203,19 @@ This analyzer is not too relevant anymore but it still was when I started resear
 - [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
 - [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html)
 - [Apsu's APT layout](https://github.com/Apsu/APT)
+- [boo's boo layout](https://ballerboo.github.io/boolayout/)
 - [Colemak DH layout](https://colemakmods.github.io/mod-dh/)
-- [ColemaQ layout and its variants](https://colemaq.github.io/)
-- [ISRT layout](https://notgate.github.io/layout/)
+- [ColemaQ layout and variants](https://colemaq.github.io/)
+- [NotGate's ISRT layout](https://notgate.github.io/layout/)
 
 ## Referenced layouts
+
+```
+boo (boo/2021)
+, . u c v  q f d l y
+a o e s g  b n t r i
+; x ' w z  p h m k j
+```
 
 ```
 Colemak (Shai Coleman/2006)
@@ -273,10 +281,38 @@ x j b k q  c w ' , ;
 ```
 
 ```
+Halmak (Nikolay Nemshilov/2016)
+w l r b z  ; q u d j
+s h n t ,  . a e o i '
+f m v c /  g p x k y
+```
+
+```
+Hands Down (Alan Reiser/2020)
+q c h p v  k y o j /
+r s n t g  w u e i a
+x m l d b  z f ' , .
+```
+
+```
+Heart (Heart/2021)
+q g d v x  j y o u ;
+r s t h l  p n a i e
+w c b m k  z f , . /
+```
+
+```
 ISRT (NotGate/2021)
 y c l m k  z f u , '
 i s r t g  p n e a o ;
 q v w d j  b h / . x
+```
+
+```
+Pine (ClemenPine/2021)
+y l r d w  j m o u ,
+c s n t g  p h a e i
+x z q v k  b f ' / .
 ```
 
 ```
@@ -287,8 +323,29 @@ v x y d k  j h / ' .
 ```
 
 ```
+Semimak (semi/2021)
+f l h v z  q w u o y
+s r n t k  c d e a i ;
+x ' b m j  p g , . /
+```
+
+```
+Semimak JQ (semi/2021)
+f l h v z  ' w u o y
+s r n t k  c d e a i ;
+x j b m q  p g , . /
+```
+
+```
 Sertain (Smudge/2021)
 x l d k v  z w o u ;
 s r t n f  g y e i a /
 q j m h b  p c ' , .
+```
+
+```
+whorf (NotGate/2021)
+f l h d m  v w o u ,
+s r n t k  g y a e i /
+x j b z q  p c ' ; .
 ```
