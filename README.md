@@ -1,6 +1,6 @@
 # Snug keyboard layout
 
-Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys. The layout was created during countless days of layout analysis using 200-analyzer and genkey, trying out variants on keyboards with different key layouts, feedback from other people, and a ton of manual optimization and of course typing.
+Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys. The layout was created during countless days of layout analysis using [200-analyzer](https://github.com/ClemenPine/200-analyzer) and [genkey](https://semilin.github.io/genkey/), trying out variants on keyboards with different key layouts, feedback from other people, and a ton of manual optimization and of course typing.
 
 ## Definitions
 
@@ -178,6 +178,18 @@ Snug still comes out on top when using real world example text from my Discord c
 #### ENDE corpus
 
 ![](img/genkey-ende.png)
+
+### Colemak Mods analyzer
+
+This analyzer is not too relevant anymore but it still was when I started researching custom layouts in 2021. Snug's score in English can kind of keep up with other top layouts. However using the German corpus it scores best out of all 40-ish alternate layouts in [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/). The list keeps Colemak Mods analyzer scores for many top layouts.
+
+#### EN corpus
+
+![](img/cma-en.png)
+
+#### DE corpus
+
+![](img/cma-de.png)
 
 ## Inspiration, knowledge, tools
 
