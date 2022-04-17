@@ -159,7 +159,7 @@ Every layout creator seems to find a way to make their layout look to be the bes
 
 Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
 
-![](img/a200-ende.png)
+![](img/a200-discord.png)
 
 ### genkey
 
