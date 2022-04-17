@@ -2,6 +2,24 @@
 
 Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys. The layout was created during countless days of layout analysis using [200-analyzer](https://github.com/ClemenPine/200-analyzer) and [genkey](https://semilin.github.io/genkey/), trying out variants on keyboards with different key layouts, feedback from other people, and a ton of manual optimization and of course typing.
 
+## Table of contents
+
+- [Snug keyboard layout](#snug-keyboard-layout)
+  - [Table of contents](#table-of-contents)
+  - [Definitions](#definitions)
+  - [Keymap](#keymap)
+  - [Angle mod](#angle-mod)
+  - [Column flip](#column-flip)
+  - [History](#history)
+  - [Analysis](#analysis)
+    - [Corpus](#corpus)
+    - [200-analyzer](#200-analyzer)
+    - [genkey](#genkey)
+    - [Colemak Mods analyzer](#colemak-mods-analyzer)
+  - [Conclusion](#conclusion)
+  - [Inspiration, knowledge, tools](#inspiration-knowledge-tools)
+  - [Referenced layouts](#referenced-layouts)
+
 ## Definitions
 
 SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to use the same finger for typing the two letters in sequence. On QWERTY for example, `de`/`ed` are SFBs. You want as few SFBs as possible to increase typing comfort and speed. The word `follow` has four letters all typed with one finger which is neither comfortable nor fast.
@@ -14,7 +32,7 @@ Scores for all of these factors play a role in the layout analysis.
 
 ## Keymap
 
-### Matrix / ortholinear
+Matrix / ortholinear
 
 ```
 q l d m b  y f o u '
@@ -22,7 +40,7 @@ s r t c g  p n e i a
 z x k w v  j h / , .
 ```
 
-### Row-stagger
+Row-stagger
 
 ```
 q l d m b y f o u '
@@ -36,7 +54,7 @@ The **angle mod** tries to make typing on the quite asymmetricly designed row-st
 
 On traditional row-stagger the keys are `z x c v b` typed with fingers `5 4 3 2 2` where `5` is your pinky and `2` your index finger. With the angle mod you shift each finger over to the left by one key. The keys and fingers change this way: Type `x c v b z` with fingers `4 3 2 2 2`.
 
-### Row-stagger with angle mod on ANSI keyboard
+Row-stagger with angle mod on ANSI keyboard
 
 ```
 q l d m b y f o u '
@@ -44,7 +62,7 @@ q l d m b y f o u '
   x k w v z j h / , .
 ```
 
-### Row-stagger with angle mod on ISO keyboard
+Row-stagger with angle mod on ISO keyboard
 
 ```
 q l d m b y f o u '
@@ -60,15 +78,15 @@ After getting used to the angle mod it should decrease typing fatigue on your le
 
 One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot so flipping the column might be better for you. When deciding which way you want to go, my recommendation is to consider how to type the words `you`, `any`, `why`, and then choose.
 
-```
 Default
+```
 y f o u '
  p n e i a
   j h / , .
 ```
 
-```
 Flipped
+```
 j f o u '
  p n e i a
   y h / , .
@@ -84,7 +102,7 @@ The last layout that I had tried out was called **Sertain**, made by Smudge. I d
 
 Snug is a mod of Snu Snu. It has come a long way since then but its first iteration, a quite alternation-heavy layout, looks quite similar to the layout it stems from.
 
-### Snu Snu
+Snu Snu
 
 ```
 x l d k v  z w o u ;
@@ -92,7 +110,7 @@ s r t n f  g y e i a /
 q j m h b  p c ' , .
 ```
 
-### Snug Classic
+Snug Classic
 
 ```
 x l d m b  y w o u q
@@ -100,7 +118,7 @@ s r t n f  p c e i a
 z j k h v  ' g / , .
 ```
 
-### Snug
+Snug
 ```
 q l d m b  y f o u '
 s r t c g  p n e i a
@@ -139,23 +157,23 @@ This analyzer can give you a very good overview over the scores of all your layo
 
 Snug stays in the top group of layouts for the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
 
-#### Monkeytype quotes corpus
+Monkeytype quotes corpus
 
 ![](img/a200-monkeytype-quotes.png)
 
-#### EN corpus
+EN corpus
 
 ![](img/a200-en.png)
 
-#### DE corpus
+DE corpus
 
 ![](img/a200-de.png)
 
-#### ENDE corpus
+ENDE corpus
 
 ![](img/a200-ende.png)
 
-#### Discord corpus
+Discord corpus
 
 Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
 
@@ -163,19 +181,19 @@ Snug still comes out on top when using real world example text from my Discord c
 
 ### genkey
 
-#### Default corpus
+Default corpus
 
 ![](img/genkey-default.png)
 
-#### EN corpus
+EN corpus
 
 ![](img/genkey-en.png)
 
-#### DE corpus
+DE corpus
 
 ![](img/genkey-de.png)
 
-#### ENDE corpus
+ENDE corpus
 
 ![](img/genkey-ende.png)
 
@@ -183,11 +201,11 @@ Snug still comes out on top when using real world example text from my Discord c
 
 This analyzer is not too relevant anymore but it still was when I started researching custom layouts in 2021. Snug's score in English can kind of keep up with other top layouts. However using the German corpus it scores best out of all 40-ish alternate layouts in [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/). The list keeps Colemak Mods analyzer scores for many top layouts.
 
-#### EN corpus
+EN corpus
 
 ![](img/cma-en.png)
 
-#### DE corpus
+DE corpus
 
 ![](img/cma-de.png)
 
