@@ -82,7 +82,7 @@ After trying out several alternate keyboard layouts including [Colemak DH](https
 
 The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it a lot but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with `Snu` back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
 
-Snug can be called a mod of Snu Snu, with its first iteration, a quite alternation-heavy version, looking quite similar.
+Snug can be called a mod of Snu Snu because with its first iteration, a quite alternation-heavy version, looking quite similar.
 
 ### Snu Snu
 
