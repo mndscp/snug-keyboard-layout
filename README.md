@@ -137,7 +137,7 @@ The analyzers have different score calculations, please don't compare the scores
 
 This analyzer can give you a very good overview over the scores of all your layouts. I sorted the results by "least SFBs, least redirects, most rolls" by running `./a200 sort -sfb -redirect roll`. All three factors will be considered so a layout being great in one aspect does not mean it will come out on top overall.
 
-Every layout creator seems to find a way to make their layout come out on top of every analysis they show and it's no different here. Snug stays on the very top for all the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
+Every layout creator seems to find a way to make their layout look to be the best in every analysis they show and it's no different here. Snug stays on the very top for all the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
 
 #### Monkeytype quotes corpus
 
