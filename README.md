@@ -102,24 +102,22 @@ The last layout that I had tried out was called **Sertain**, made by Smudge. I d
 
 Snug is a mod of Snu Snu. It has come a long way since then but its first iteration, a quite alternation-heavy layout, looks quite similar to the layout it stems from.
 
-Snu Snu
-
 ```
+Snu Snu
 x l d k v  z w o u ;
 s r t n f  g y e i a /
 q j m h b  p c ' , .
 ```
 
-Snug Classic
-
 ```
+Snug Classic
 x l d m b  y w o u q
 s r t n f  p c e i a
 z j k h v  ' g / , .
 ```
 
-Snug
 ```
+Snug
 q l d m b  y f o u '
 s r t c g  p n e i a
 z x k w v  j h / , .
