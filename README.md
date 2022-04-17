@@ -2,13 +2,15 @@
 
 Snug is an alternate keyboard layout optimized for increased typing comfort and speed in both English and German. The goal was to have as few SFBs as possible while keeping redirects low and rolls high. All of that without putting any important letters on the upper and lower pinky keys. The layout was created during countless days of layout analysis using 200-analyzer and genkey, trying out variants on keyboards with different key layouts, feedback from other people, and a ton of manual optimization and of course typing.
 
+## Definitions
+
 SFB stands for **Same Finger Bigram**. Two keys are called an SFB if you have to use the same finger for typing the two letters in sequence. On QWERTY for example, `de`/`ed` are SFBs. You want as few SFBs as possible to increase typing comfort and speed. The word `follow` has four letters all typed with one finger which is neither comfortable nor fast.
 
 **Redirects** are made up of three keys and your fingers kind of change direction when typing them. They are not very pleasant to type so you want to avoid these as well during layout creation. QWERTY examples: `sad`, `you`, `lip`.
 
 **Rolls** are comfortable sequences of keys that are all typed with different fingers, going one direction on your hand, like `wet`, `hop`, and `awe`.
 
-Scores for all of these factors play a role in the layout anaysis.
+Scores for all of these factors play a role in the layout analysis.
 
 ## Keymap
 
