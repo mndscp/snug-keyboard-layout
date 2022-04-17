@@ -76,7 +76,7 @@ You could do the same thing on the left hand but I don't see any advantages ther
 
 ## History
 
-After trying out several alternate keyboard layouts including [Colemak DH](https://colemakmods.github.io/mod-dh/), [ColemaQ](https://colemaq.github.io/), [ColemaQ-F](https://colemaq.github.io/variants.html), Colemak Qi;x, Colemak Qiou, [ISRT](https://notgate.github.io/layout/), Crustmak and Snu Snu, I did feel that the layout journey was going well but all these layouts had one thing in common: They were made with English in mind. They were great for typing in English and not optimal for typing in German. Many of them did not care about the `sc` and `eu` bigrams which are not common in English but very common in German. Optimizing for both languages was going to be difficult.
+After trying out several alternate keyboard layouts including [Colemak DH](https://colemakmods.github.io/mod-dh/), [ColemaQ](https://colemaq.github.io/), [ColemaQ-F](https://colemaq.github.io/variants.html), Colemak Qi;x, Colemak Qiou, [ISRT](https://notgate.github.io/layout/), Crustmak and Snu Snu, I did feel that the layout journey was going well but most these layouts had one thing in common: They were made with English in mind. They were great for typing in English and not optimal for typing in German. Many of them did not care about the `sc` and `eu` bigrams which are not common in English but appear very frequently in German. Optimizing for both languages was going to be difficult.
 
 The last layout that I had tried out was called **Sertain**, made by Smudge. I did like it a lot but I did not like the name so I dubbed it **Snu Snu** because the creator's name started with `Snu` back then and it's a fun [Futurama reference](https://www.youtube.com/watch?v=fNsrvnHJdco) :)
 
@@ -131,9 +131,67 @@ The analyses were done using three different analysers:
 
 The analyzers have different score calculations, please don't compare the scores of one analyzer to the other. For example genkey will usually show an SFB percentage around half that of the 200 analyzer.
 
+### 200-analyzer
+
+This analyzer can show you lists of your analyzed layouts and give you a very good overview over the scores in each category. I sorted the results by "least SFBs, least redirects, most rolls" by running `./a200 sort -sfb -redirect roll`. All three factors will be considered so a layout being great in one aspect does not mean it will come out on top overall.
+
+Every layout creator seems to find a way to make their layout come out on top of every analysis they show and it's no different here. Snug stays on the very top for all the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
+
+#### Monkeytype quotes corpus
+
+![](img/a200-monkeytype-quotes.png)
+
+#### EN corpus
+
+![](img/a200-en.png)
+
+#### DE corpus
+
+![](img/a200-de.png)
+
+#### ENDE corpus
+
+![](img/a200-ende.png)
+
+#### Discord corpus
+
+Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
+
+![](img/a200-ende.png)
+
 ### genkey
 
+#### Default corpus
 
+![](img/genkey-default.png)
+
+#### EN corpus
+
+![](img/genkey-en.png)
+
+#### DE corpus
+
+![](img/genkey-de.png)
+
+#### ENDE corpus
+
+![](img/genkey-ende.png)
+
+## Inspiration, knowledge, tools
+
+- [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org)
+- [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/)
+- [ec0vid's Keyboard layout doc](https://bit.ly/keyboard-layouts-doc)
+- [Norvig bigram frequencies](https://blogs.sas.com/content/iml/files/2014/09/bigrams.txt)
+- [WordCreator character and syllable frequences](https://www.sttmedia.com/wordcreator-frequencies)
+- [semi's "genkey" layout generator and analyzer](https://semilin.github.io/genkey/)
+- [ClemenPine's "200-analyzer" layout analyzer](https://github.com/ClemenPine/200-analyzer)
+- [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
+- [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html)
+- [Apsu's APT layout](https://github.com/Apsu/APT)
+- [Colemak DH layout](https://colemakmods.github.io/mod-dh/)
+- [ColemaQ layout and its variants](https://colemaq.github.io/)
+- [ISRT layout](https://notgate.github.io/layout/)
 
 ## Referenced layouts
 
@@ -180,6 +238,13 @@ z x w d v  b h , . /
 ```
 
 ```
+Crush (mainstream/2022)
+q l k m b  y f o u '
+c r s t g  p n e i a
+z x w d v  j h / , .
+```
+
+```
 Crustmak (Apsu/2021)
 q w f p k  j l u o ;
 c r s t b  m n e a i
@@ -187,31 +252,29 @@ y x g d v  z h ' , .
 ```
 
 ```
+Dwarf (StronglyTyped/2021)
+f l h d v  z g o u .
+s r n t m  p y e i a
+x j b k q  c w ' , ;
+```
+
+```
 ISRT (NotGate/2021)
 y c l m k  z f u , '
-i s r t g  p n e a o
-q v w d j  b h / . x
+i s r t g  p n e a o ;
+q v w d j  b h / . x 
+```
+
+```
+Rollmak (Apsu/2022)
+q w f p b  z l u o ;
+c r s t g  m n e a i
+v x y d k  j h / , .
 ```
 
 ```
 Sertain (Smudge/2021)
-x l d k v  z w o u .
-s r t n f  g y e i a
-q j m h b  p c ' , ;
+x l d k v  z w o u ;
+s r t n f  g y e i a /
+q j m h b  p c ' , .
 ```
-
-## Inspiration, knowledge, tools
-
-- [DreymaR's Big Bag of Keyboard Tricks](https://dreymar.colemak.org)
-- [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/)
-- [ec0vid's Keyboard layout doc](https://bit.ly/keyboard-layouts-doc)
-- [Norvig bigram frequencies](https://blogs.sas.com/content/iml/files/2014/09/bigrams.txt)
-- [WordCreator character and syllable frequences](https://www.sttmedia.com/wordcreator-frequencies)
-- [semi's "genkey" layout generator and analyzer](https://semilin.github.io/genkey/)
-- [ClemenPine's "200-analyzer" layout analyzer](https://github.com/ClemenPine/200-analyzer)
-- [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/)
-- [Colemak Mods analyzer](https://colemakmods.github.io/mod-dh/analyze.html)
-- [Apsu's APT layout](https://github.com/Apsu/APT)
-- [Colemak DH layout](https://colemakmods.github.io/mod-dh/)
-- [ColemaQ layout and its variants](https://colemaq.github.io/)
-- [ISRT layout](https://notgate.github.io/layout/)
