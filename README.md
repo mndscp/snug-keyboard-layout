@@ -58,7 +58,7 @@ After getting used to the angle mod it should decrease typing fatigue on your le
 
 ## Column flip
 
-One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot. You can choose the variation with which you find typing the words `you` and `any` more enjoyable.
+One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot so flipping the column might be better for you. When deciding which way you want to go, my recommendation is to consider how to type the words `you`, `any`, `why`, and then choose.
 
 ```
 Default
