@@ -155,23 +155,23 @@ This analyzer can give you a very good overview over the scores of all your layo
 
 Snug stays in the top group of layouts for the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
 
-Monkeytype quotes corpus
+**Monkeytype quotes corpus**
 
 ![](img/a200-monkeytype-quotes.png)
 
-EN corpus
+**EN corpus**
 
 ![](img/a200-en.png)
 
-DE corpus
+**DE corpus**
 
 ![](img/a200-de.png)
 
-ENDE corpus
+**ENDE corpus**
 
 ![](img/a200-ende.png)
 
-Discord corpus
+**Discord corpus**
 
 Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
 
@@ -179,19 +179,19 @@ Snug still comes out on top when using real world example text from my Discord c
 
 ### genkey
 
-Default corpus
+**Default corpus**
 
 ![](img/genkey-default.png)
 
-EN corpus
+**EN corpus**
 
 ![](img/genkey-en.png)
 
-DE corpus
+**DE corpus**
 
 ![](img/genkey-de.png)
 
-ENDE corpus
+**ENDE corpus**
 
 ![](img/genkey-ende.png)
 
