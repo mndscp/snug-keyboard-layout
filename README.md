@@ -193,7 +193,7 @@ This analyzer is not too relevant anymore but it still was when I started resear
 
 ## Conclusion
 
-Snug feels comfortable to me. The absence of SFBs in both of my most-typed languages is a real treat and I am very happy with this layout. A lot of knowledge gained, a lot of work and fun went into the project. Thank you to everyone who helped during the creation process, you know who you are, and I could not write this without your help!
+Snug feels comfortable to me. The absence of SFBs in both of my most-typed languages is a real treat and I am very happy with this layout. A lot of knowledge gained, a lot of work and fun went into the project. Thank you to everyone who helped during the creation process, you know who you are and this would not exist without you.
 
 Give Snug a chance, check out the links below, and have a great day :)
 
