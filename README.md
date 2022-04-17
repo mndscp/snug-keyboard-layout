@@ -171,7 +171,7 @@ Snug stays in the top group of layouts for the analyses done for five different 
 
 Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
 
-![](img/a200-discord.png)
+![](img/a200-dc.png)
 
 ### genkey
 
