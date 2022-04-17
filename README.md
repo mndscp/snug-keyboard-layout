@@ -32,16 +32,14 @@ Scores for all of these factors play a role in the layout analysis.
 
 ## Keymap
 
-Matrix / ortholinear
-
+**Matrix / ortholinear**
 ```
 q l d m b  y f o u '
 s r t c g  p n e i a
 z x k w v  j h / , .
 ```
 
-Row-stagger
-
+**Row-stagger**
 ```
 q l d m b y f o u '
  s r t c g p n e i a
@@ -54,16 +52,14 @@ The **angle mod** tries to make typing on the quite asymmetricly designed row-st
 
 On traditional row-stagger the keys are `z x c v b` typed with fingers `5 4 3 2 2` where `5` is your pinky and `2` your index finger. With the angle mod you shift each finger over to the left by one key. The keys and fingers change this way: Type `x c v b z` with fingers `4 3 2 2 2`.
 
-Row-stagger with angle mod on ANSI keyboard
-
+**Row-stagger with angle mod on ANSI keyboard**
 ```
 q l d m b y f o u '
  s r t c g p n e i a
   x k w v z j h / , .
 ```
 
-Row-stagger with angle mod on ISO keyboard
-
+**Row-stagger with angle mod on ISO keyboard**
 ```
 q l d m b y f o u '
  s r t c g p n e i a
@@ -78,14 +74,14 @@ After getting used to the angle mod it should decrease typing fatigue on your le
 
 One option that you have to maximize comfort for yourself is to flip the right inner column. Depending on the type of keyboard you use you might find one or the other way more comfortable to use. In German the letter `y` is almost non-existent so giving that letter the worst position is only natural. However in English it's used a lot so flipping the column might be better for you. When deciding which way you want to go, my recommendation is to consider how to type the words `you`, `any`, `why`, and then choose.
 
-Default
+**Default**
 ```
 y f o u '
  p n e i a
   j h / , .
 ```
 
-Flipped
+**Flipped**
 ```
 j f o u '
  p n e i a
@@ -130,7 +126,7 @@ After a while of typing on this first iteration (now called *Snug Classic*) I fe
 > 2. enjoying or affording warm secure shelter or cover and opportunity for ease and contentment
 > 3. affording a degree of comfort and ease
 
-These meanings + Snu **Snu G**erman mod + good short layout name = Snug.
+These meanings + Snu **Snu G**erman mod + good short layout name = **Snug**.
 
 *Fun fact: Because of the `v'g` on the bottom of Snug Classic and it being a layout optimized for German, a name I had thought about previously was `V'Ger` like in the Star Trek movie. But then decided against it because this layout was surely going to be used on most computers one day and nobody wants the copyright issues :P*
 
@@ -156,55 +152,44 @@ This analyzer can give you a very good overview over the scores of all your layo
 Snug stays in the top group of layouts for the analyses done for five different corpora. I consider this lucky but am very happy about it, too.
 
 **Monkeytype quotes corpus**
-
 ![](img/a200-monkeytype-quotes.png)
 
 **EN corpus**
-
 ![](img/a200-en.png)
 
 **DE corpus**
-
 ![](img/a200-de.png)
 
 **ENDE corpus**
-
 ![](img/a200-ende.png)
 
 **Discord corpus**
 
 Snug still comes out on top when using real world example text from my Discord chat history which consists of English and German.
-
 ![](img/a200-discord.png)
 
 ### genkey
 
 **Default corpus**
-
 ![](img/genkey-default.png)
 
 **EN corpus**
-
 ![](img/genkey-en.png)
 
 **DE corpus**
-
 ![](img/genkey-de.png)
 
 **ENDE corpus**
-
 ![](img/genkey-ende.png)
 
 ### Colemak Mods analyzer
 
 This analyzer is not too relevant anymore but it still was when I started researching custom layouts in 2021. Snug's score in English can kind of keep up with other top layouts. However using the German corpus it scores best out of all 40-ish alternate layouts in [mainstream's matrix keyboard layout list](https://cryptpad.fr/sheet/#/2/sheet/view/ij-3kKonjdIe8xjRVLFD-LFsspJxdw+DuV2ZCF-A15E/). The list keeps Colemak Mods analyzer scores for many top layouts.
 
-EN corpus
-
+**EN corpus**
 ![](img/cma-en.png)
 
-DE corpus
-
+**DE corpus**
 ![](img/cma-de.png)
 
 ## Conclusion
